@@ -22,5 +22,49 @@
 			<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
 		</accessrules>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.eclipse.jface_3.12.1.v20160923-1528.jar" sourcepath="C:/Users/admin/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.eclipse.jface.source_3.12.1.v20160923-1528.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/admin/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/org.eclipse.platform.doc.isv_4.6.2.v20161123-1159.jar!/reference/api"/>
+		</attributes>
+		<accessrules>
+			<accessrule kind="accessible" pattern="org/eclipse/jface/action/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jface/bindings/keys/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jface/dialogs/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jface/fieldassist/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jface/layout/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jface/menus/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jface/resource/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jface/util/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jface/viewers/*"/>
+			<accessrule kind="accessible" pattern="org/eclipse/jface/window/*"/>
+			<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="src" path="/org.eclipse.nebula.widgets.nattable.extension.glazedlists"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/ca.odell.glazedlists_1.9.0.v201303080712.jar" sourcepath="C:/Users/admin/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/ca.odell.glazedlists.source_1.9.0.v201303080712.jar">
+		<accessrules>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/calculation/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/nachocalendar/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/event/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/gui/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/migrationkit/swt/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/migrationkit/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/*"/>
+			<accessrule kind="accessible" pattern="resources/metal/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/io/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/hibernate/*"/>
+			<accessrule kind="accessible" pattern="resources/windows/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/util/concurrent/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/matchers/*"/>
+			<accessrule kind="accessible" pattern="resources/windowsxp/*"/>
+			<accessrule kind="accessible" pattern="resources/aqua/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/swing/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/migrationkit/swing/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/swt/*"/>
+			<accessrule kind="accessible" pattern="ca/odell/glazedlists/jfreechart/*"/>
+			<accessrule kind="accessible" pattern="resources/ocean/*"/>
+			<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+		</accessrules>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
