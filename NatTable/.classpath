@@ -41,30 +41,5 @@
 		</accessrules>
 	</classpathentry>
 	<classpathentry kind="src" path="/org.eclipse.nebula.widgets.nattable.extension.glazedlists"/>
-	<classpathentry kind="lib" path="C:/Users/admin/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/ca.odell.glazedlists_1.9.0.v201303080712.jar" sourcepath="C:/Users/admin/workspace/.metadata/.plugins/org.eclipse.pde.core/.bundle_pool/plugins/ca.odell.glazedlists.source_1.9.0.v201303080712.jar">
-		<accessrules>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/calculation/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/nachocalendar/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/event/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/gui/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/migrationkit/swt/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/migrationkit/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/*"/>
-			<accessrule kind="accessible" pattern="resources/metal/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/io/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/hibernate/*"/>
-			<accessrule kind="accessible" pattern="resources/windows/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/util/concurrent/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/matchers/*"/>
-			<accessrule kind="accessible" pattern="resources/windowsxp/*"/>
-			<accessrule kind="accessible" pattern="resources/aqua/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/swing/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/migrationkit/swing/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/swt/*"/>
-			<accessrule kind="accessible" pattern="ca/odell/glazedlists/jfreechart/*"/>
-			<accessrule kind="accessible" pattern="resources/ocean/*"/>
-			<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
-		</accessrules>
-	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
